@@ -1,3 +1,6 @@
+## 3.0.0-nullsafety.0
+Migrates package to fully support null safety.
+
 ## 2.1.0
 Adds `withReadStream` that allows bigger files to be streamed read into a `Stream<List<int>>`. Thanks @redsolver.
 
